@@ -55,3 +55,6 @@ This assignment is broken down into the following tasks:
 ## Calculate Correlation and Regression
 1. Calculate the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
 2. Plot the linear regression model on top of the previous scatter plot.
+
+# Note
+Help for this assignment was received from the class recordings and solutions. 
